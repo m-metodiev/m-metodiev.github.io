@@ -27,7 +27,7 @@ social sciences
   * Submission of the paper Easily Computed Marginal Likelihoods from Posterior Simulation Using the THAMES Estimator
 
 * October 2019 - September 2023: Teaching Assistant
-  * Friedrich-Alexander-Universität Erlangen-Nürnberg (Department of Mathematics)
+  * Friedrich-Alexander-Universität Erlangen-Nürnberg
  
 * April - August 2021: Research Assistant
   * Fraunhofer Gesellschaft zur Förderung der angewandten Forschung e.V. am Institut für Verfahrenstechnik und Verpackung
