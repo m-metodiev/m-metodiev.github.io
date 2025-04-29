@@ -2,7 +2,7 @@
 title: "How many clusters are there in the galaxy dataset? (10 hours of teaching)"
 collection: teaching
 type: "Graduate Project"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2025_project_galaxy
 venue: "Polytech"
 date: 2025-09-01
 location: "Clermont-Ferrand, France"
