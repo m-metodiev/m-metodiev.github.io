@@ -7,7 +7,7 @@ excerpt: 'We propose an easily computed estimator of the marginal likelihood fro
 date: 2024-01-01
 venue: 'Bayesian Analysis'
 paperurl: 'http://academicpages.github.io/files/24-BA1422.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
+bibtexurl: 'http://academicpages.github.io/files/citation-ba-1_1.bib'
 citation: 'Martin Metodiev, Marie Perrot-Dockès, Sarah Ouadah, Nicholas J. Irons, Pierre Latouche, Adrian E. Raftery.
 "Easily Computed Marginal Likelihoods from Posterior Simulation Using the THAMES Estimator." Bayesian
 Analysis, Advance Publication 1-28 2024.'
