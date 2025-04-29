@@ -1,11 +1,11 @@
 ---
-title: "Stochastic Modelling (60 hours of teaching from 2020 to 2023)"
+title: "Statistiques et Probabilités (10 hours of teaching)"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "Friedrich-Alexander-Universität Erlangen-Nürnberg, Department of Mathematics"
+venue: "Polytech"
 date: 2020-09-01
-location: "Erlangen, Germany"
+location: "Clermont-Ferrand, France"
 ---
 
-An introduction to probabilistic models, including the Poisson process and finite Markov chains.
+An introduction to probability, including the Poisson process and testing theory.
