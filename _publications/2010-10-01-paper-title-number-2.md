@@ -1,7 +1,7 @@
 ---
 title: "A Structured Estimator for large Covariance Matrices in the Presence of Pairwise and Spatial Covariates"
 collection: publications
-category: manuscripts
+category: preprints
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'We consider the problem of estimating a high-dimensional covariance matrix from a small number of observations when covariates on pairs of variables are available and the variables can have spatial structure.'
 date: 2024-10-01
