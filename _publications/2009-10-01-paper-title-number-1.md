@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'We propose an easily computed estimator of the marginal likelihood from posterior simulation output, via reciprocal importance sampling, combining earlier proposals of DiCiccio et al (1997) and Robert and Wraith (2009).'
-date: 2009-10-01
+date: 2025-01-01
 venue: 'Bayesian Analysis'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
