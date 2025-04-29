@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'We consider the problem of estimating a high-dimensional covariance matrix from a small number of observations when covariates on pairs of variables are available and the variables can have spatial structure.'
-date: 2010-10-01
+date: 2024-10-01
 venue: 'arXiv'
 bibtexurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
