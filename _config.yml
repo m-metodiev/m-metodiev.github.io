@@ -27,17 +27,17 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "I am a PhD-student with research in Bayesian Statistics."
   location         : "Clermont-Ferrand, France"
-  employer         : "LMBP, UCA https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  employer         : "LMBP, UCA"
   uri              : # URL
   email            : "martin.metodiev@doctorant.uca.fr" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=de&view_op=list_works&authuser=1&gmla=AIfU4H7nf8JpTLdOd9P0DPtr3_YYlOOEe4XYQxZkhyS-9p9ce3T8xCiyJPFbwImaHIxj3Bc6X59eg784lfKJeNSOlLOQ_XsoZ8s&user=_cHu5b4AAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0000-9432-3756"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   researchgate     : # URL
   scopus           : # URL
 
@@ -45,12 +45,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "M-crypto645"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
