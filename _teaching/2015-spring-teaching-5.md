@@ -1,5 +1,5 @@
 ---
-title: "Statistiques et Probabilités (10 hours of teaching)"
+title: "Statistiques et Probabilités (16 hours of teaching)"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2015-spring-teaching-1
