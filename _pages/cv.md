@@ -11,35 +11,39 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Mathematics, Université Clermont Auvergne, laboratoire de mathématiques Blaise Pascal, 2026 (expected)
+* M.S. in Mathematics, Friedrich-Alexander-Universität Erlangen-Nürnberg, 2023
+* B.S. in Mathematics, Friedrich-Alexander-Universität Erlangen-Nürnberg, 2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Since October 2023: Doctoral student
+  * Université Clermont Auvergne, laboratoire de mathématiques Blaise Pascal
+  * Thesis subject: Work on Bayesian approaches to model choice via draws from MCMC with applications in the
+social sciences
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* January - July 2023: Internship
+  * Université Paris-Cité, MAP5
+  * Submission of the paper Easily Computed Marginal Likelihoods from Posterior Simulation Using the THAMES Estimator
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* October 2019 - September 2023: Teaching Assistant
+  * Friedrich-Alexander-Universität Erlangen-Nürnberg (Department of Mathematics)
+ 
+* April - August 2021: Research Assistant
+  * Fraunhofer Gesellschaft zur Förderung der angewandten Forschung e.V. am Institut für Verfahrenstechnik und Verpackung
+  * Data Analysis as well as Machine Learning via the programming language Python
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Basic Knowledge: Java, Excel, Word, PowerPoint
+  * Advanced Knowledge: R, LaTeX, Python
+* Languages
+  * Bulgarian: Mothertongue
+  * German: Mothertongue
+  * English: C1
+  * French: B1
+  * Latin: Basic Knowledge
 
 Publications
 ======
@@ -58,7 +62,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
