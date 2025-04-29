@@ -6,8 +6,8 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'We propose an easily computed estimator of the marginal likelihood from posterior simulation output, via reciprocal importance sampling, combining earlier proposals of DiCiccio et al (1997) and Robert and Wraith (2009).'
 date: 2024-01-01
 venue: 'Bayesian Analysis'
-paperurl: 'http://academicpages.github.io/files/24-BA1422.pdf'
-bibtexurl: 'http://academicpages.github.io/files/citation-ba-1_1.bib'
+paperurl: 'http://m-crypto645.github.io/files/24-BA1422.pdf'
+bibtexurl: 'http://m-crypto645.github.io/files/citation-ba-1_1.bib'
 citation: 'Martin Metodiev, Marie Perrot-Dockès, Sarah Ouadah, Nicholas J. Irons, Pierre Latouche, Adrian E. Raftery.
 "Easily Computed Marginal Likelihoods from Posterior Simulation Using the THAMES Estimator." Bayesian
 Analysis, Advance Publication 1-28 2024.'
