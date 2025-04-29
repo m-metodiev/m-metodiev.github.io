@@ -1,11 +1,11 @@
 ---
-title: "Stochastic Modelling (60 hours of teaching from 2020 to 2023)"
+title: "How many clusters are there in the galaxy dataset?"
 collection: teaching
-type: "Undergraduate Course"
+type: "Graduate Project"
 permalink: /teaching/2015-spring-teaching-1
-venue: "Friedrich-Alexander-Universität Erlangen-Nürnberg, Department of Mathematics"
+venue: "Polytech"
 date: 2020-09-01
-location: "Erlangen, Germany"
+location: "Clermont-Ferrand, France"
 ---
 
-An introduction to probabilistic models, including the Poisson process and finite Markov chains.
+The goal was to replicate the results of the following article: Grün, B., Malsiner-Walli, G. & Frühwirth-Schnatter, S. How many data clusters are in the Galaxy data set?. Adv Data Anal Classif 16, 325–349 (2022). 
