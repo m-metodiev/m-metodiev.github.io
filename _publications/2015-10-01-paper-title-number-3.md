@@ -1,7 +1,7 @@
 ---
 title: "The Principle of Redundant Reflection"
 collection: publications
-category: manuscripts
+category: preprints
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'The fact that redundant information does not change a rational belief after Bayesian updating implies uniqueness of Bayes rule.'
 date: 2025-01-01
