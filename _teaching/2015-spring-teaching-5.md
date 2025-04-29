@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Polytech"
-date: 2020-09-01
+date: 2024-09-01
 location: "Clermont-Ferrand, France"
 ---
 
