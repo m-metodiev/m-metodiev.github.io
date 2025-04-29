@@ -26,7 +26,7 @@ author:
   name             : "About me"
   pronouns         : # example: "she/her"  
   bio              : "I am a PhD-student with research in Bayesian Statistics."
-  location         : "Clermont-Ferrand, France"
+  location         : "Clermont-Ferrand"
   employer         : "LMBP, UCA"
   uri              : # URL
   email            : "martin.metodiev@doctorant.uca.fr" 
