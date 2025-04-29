@@ -1,5 +1,5 @@
 ---
-title: "How many clusters are there in the galaxy dataset?"
+title: "How many clusters are there in the galaxy dataset? (10 hours of teaching)"
 collection: teaching
 type: "Graduate Project"
 permalink: /teaching/2015-spring-teaching-1
