@@ -22,7 +22,7 @@ repository               : "M-crypto645/m-crypto645.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Martin_pic.png"
   name             : "Contact"
   pronouns         : # example: "she/her"  
   bio              : "I am currently pursuing a PhD with a focus on Bayesian statistical methods."
