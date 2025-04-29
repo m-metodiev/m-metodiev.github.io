@@ -6,8 +6,8 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'The fact that redundant information does not change a rational belief after Bayesian updating implies uniqueness of Bayes rule.'
 date: 2025-01-01
 venue: 'arXiv'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+bibtexurl: 'http://m-crypto645.github.io/files/porr_arxiv.bib'
+paperurl: 'http://m-crypto645.github.io/files/porr_arxiv.pdf'
 citation: 'Metodiev, M., Marsman, M., Waldorp, L., Gronau, Q. F., & Wagenmakers, E. J. (2025). The Principle of Redundant Reflection. arXiv preprint arXiv:2503.21719.'
 ---
 
