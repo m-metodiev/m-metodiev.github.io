@@ -6,8 +6,8 @@ permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'We consider the problem of estimating a high-dimensional covariance matrix from a small number of observations when covariates on pairs of variables are available and the variables can have spatial structure.'
 date: 2024-10-01
 venue: 'arXiv'
-bibtexurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+bibtexurl: 'http://m-crypto645.github.io/files/2024_sce_arxiv.bib'
+paperurl: 'http://m-crypto645.github.io/files/2024_sce_arxiv.pdf'
 citation: 'Metodiev, M., Perrot-Dockès, M., Ouadah, S., Fosdick, B. K., Robin, S., Latouche, P., & Raftery, A. E. (2024). A Structured Estimator for large Covariance Matrices in the Presence of Pairwise and Spatial Covariates. arXiv preprint arXiv:2411.04520.'
 ---
 
