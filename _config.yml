@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "About me"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Université Clermont Auvergne"
+  bio              : "I am a PhD-student with research in Bayesian Statistics."
+  location         : "Clermont-Ferrand, France"
+  employer         : "LMBP, UCA https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "martin.metodiev@doctorant.uca.fr" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
