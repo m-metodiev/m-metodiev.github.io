@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * Since October 2023: Doctoral student
-  * Université Clermont Auvergne, laboratoire de mathématiques Blaise Pascal
+  * Université Clermont Auvergne, laboratoire de mathématiques Blaise Pascal, équipe probabilités, analyse et statistique
   * Thesis subject: Work on Bayesian approaches to model choice via draws from MCMC with applications in the
 social sciences
 
