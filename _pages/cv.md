@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* PhD in Mathematics, Université Clermont Auvergne, laboratoire de mathématiques Blaise Pascal, 2026 (expected)
+* PhD in Mathematics, Université Clermont Auvergne, laboratoire de mathématiques Blaise Pascal, équipe probabilités, analyse et statistique, 2026 (expected)
 * MSc in Mathematics, Friedrich-Alexander-Universität Erlangen-Nürnberg, 2023
 * BSc in Mathematics, Friedrich-Alexander-Universität Erlangen-Nürnberg, 2021
 
