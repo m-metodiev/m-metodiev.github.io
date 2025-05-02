@@ -2,7 +2,6 @@
 title: "Easily Computed Marginal Likelihoods for Multivariate Mixture Models Using the THAMES Estimator"
 collection: publications
 category: preprints
-permalink: /publication/2025_thames_mixtures_arxiv
 excerpt: 'We present a new version of the truncated harmonic mean estimator (THAMES) for univariate or multivariate mixture models.'
 date: 2025-04-30
 venue: 'arXiv'
