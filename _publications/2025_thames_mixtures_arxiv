@@ -1,14 +1,14 @@
 ---
-title: "A Structured Estimator for large Covariance Matrices in the Presence of Pairwise and Spatial Covariates"
+title: "Easily Computed Marginal Likelihoods for Multivariate Mixture Models Using the THAMES Estimator"
 collection: publications
 category: preprints
 permalink: /publication/2025_thames_mixtures_arxiv
-excerpt: 'We consider the problem of estimating a high-dimensional covariance matrix from a small number of observations when covariates on pairs of variables are available and the variables can have spatial structure.'
-date: 2024-10-01
+excerpt: 'We present a new version of the truncated harmonic mean estimator (THAMES) for univariate or multivariate mixture models.'
+date: 2025-04-30
 venue: 'arXiv'
 bibtexurl: 'http://m-crypto645.github.io/files/2025_thames_mixtures_arxiv.bib'
 paperurl: 'http://m-crypto645.github.io/files/2025_thames_mixtures_arxiv.pdf'
-citation: 'Metodiev, M., Perrot-Dockès, M., Ouadah, S., Fosdick, B. K., Robin, S., Latouche, P., & Raftery, A. E. (2024). A Structured Estimator for large Covariance Matrices in the Presence of Pairwise and Spatial Covariates. arXiv preprint arXiv:2411.04520.'
+citation: 'Martin Metodiev, Nicholas J. Irons, Marie Perrot-Dockès, Pierre Latouche, Adrian E. Raftery.
+"Easily Computed Marginal Likelihoods for Multivariate Mixture Models Using the THAMES Estimator." arXiv preprint arXiv:2504.21812.'
 ---
-
-We consider the problem of estimating a high-dimensional covariance matrix from a small number of observations when covariates on pairs of variables are available and the variables can have spatial structure. This is motivated by the problem arising in demography of estimating the covariance matrix of the total fertility rate (TFR) of 195 different countries when only 11 observations are available. We construct an estimator for high-dimensional covariance matrices by exploiting information about pairwise covariates, such as whether pairs of variables belong to the same cluster, or spatial structure of the variables, and interactions between the covariates. We reformulate the problem in terms of a mixed effects model. This requires the estimation of only a small number of parameters, which are easy to interpret and which can be selected using standard procedures. The estimator is consistent under general conditions, and asymptotically normal. It works if the mean and variance structure of the data is already specified or if some of the data are missing. We assess its performance under our model assumptions, as well as under model misspecification, using simulations. We find that it outperforms several popular alternatives. We apply it to the TFR dataset and draw some conclusions.
+We present a new version of the truncated harmonic mean estimator (THAMES) for univariate or multivariate mixture models. The estimator computes the marginal likelihood from Markov chain Monte Carlo (MCMC) samples, is consistent, asymptotically normal and of finite variance. In addition, it is invariant to label switching, does not require posterior samples from hidden allocation vectors, and is easily approximated, even for an arbitrarily high number of components. Its computational efficiency is based on an asymptotically optimal ordering of the parameter space, which can in turn be used to provide useful visualisations. We test it in simulation settings where the true marginal likelihood is available analytically. It performs well against state-of-the-art competitors, even in multivariate settings with a high number of components. We demonstrate its utility for inference and model selection on univariate and multivariate data sets.
