@@ -2,7 +2,6 @@
 title: "Introduction aux statistiques bayésiennes"
 collection: talks
 type: "Talk"
-permalink: /talks/2014-02-01-talk-2
 venue: "Université Clermont Auvergne, LMBP"
 date: 2024-03-13
 location: "Clermont-Ferrand, France"
