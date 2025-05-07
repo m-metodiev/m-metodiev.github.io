@@ -2,7 +2,7 @@
 title: "Easily Computed Marginal Likelihoods for Multivariate Mixture Models Using the THAMES Estimator"
 collection: talks
 type: "Talk"
-venue: "University of Oxforx, Computational Statistics and Machine Learning Group"
+venue: "University of Oxford, Computational Statistics and Machine Learning Group"
 date: 2025-05-21
 location: "Oxford, United Kingdom"
 ---
