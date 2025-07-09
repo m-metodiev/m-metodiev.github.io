@@ -2,7 +2,7 @@
 title: "A Structured Estimator for large Covariance Matrices in the Presence of Pairwise and Spatial Covariates"
 collection: talks
 type: "Talk"
-venue: "University of Amsterdam"
+venue: "University of Amsterdam, Bayesian Methods for the Social Sciences II"
 date: 2024-10-18
 location: "Amsterdam, The Netherlands"
 ---
