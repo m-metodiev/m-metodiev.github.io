@@ -2,7 +2,7 @@
 title: "Easily Computed Marginal Likelihoods from Posterior Simulation Using the THAMES Estimator"
 collection: talks
 type: "Talk"
-venue: "Université Paris Cité, MAP5"
+venue: "Groupe de Travail des Éphémères, Université Paris Cité, MAP5"
 date: 2023-06-02
 location: "Paris, France"
 ---
