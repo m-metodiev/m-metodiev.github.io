@@ -5,8 +5,8 @@ category: preprints
 excerpt: 'We present a new version of the truncated harmonic mean estimator (THAMES) for univariate or multivariate mixture models.'
 date: 2025-04-30
 venue: 'arXiv'
-bibtexurl: 'http://m-crypto645.github.io/files/2025_thames_mixtures_arxiv.bib'
-paperurl: 'http://m-crypto645.github.io/files/2025_thames_mixtures_arxiv.pdf'
+bibtexurl: 'http://m-metodiev.github.io/files/2025_thames_mixtures_arxiv.bib'
+paperurl: 'http://m-metodiev.github.io/files/2025_thames_mixtures_arxiv.pdf'
 citation: 'Martin Metodiev, Nicholas J. Irons, Marie Perrot-Dockès, Pierre Latouche, Adrian E. Raftery.
 "Easily Computed Marginal Likelihoods for Multivariate Mixture Models Using the THAMES Estimator." arXiv preprint arXiv:2504.21812.'
 ---
