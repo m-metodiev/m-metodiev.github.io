@@ -6,7 +6,7 @@ excerpt: 'Implements the truncated harmonic mean estimator (THAMES) of the recip
 date: 2025-07-14
 venue: 'CRAN'
 bibtexurl: 'http://m-metodiev.github.io/files/2025_thamesmixR.bib'
-paperurl: 'http://m-metodiev.github.io/files/2024_sce_arxiv.pdf'
+paperurl: 'http://m-metodiev.github.io/files/2025_thamesmixR.pdf'
 citation: 'Metodiev, M., Perrot-Dockès, M., Ouadah, S., Fosdick, B. K., Robin, S., Latouche, P., & Raftery, A. E. (2024). A Structured Estimator for large Covariance Matrices in the Presence of Pairwise and Spatial Covariates. arXiv preprint arXiv:2411.04520.'
 ---
 
