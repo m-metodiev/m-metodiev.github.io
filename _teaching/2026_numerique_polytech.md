@@ -1,11 +1,11 @@
 ---
-title: "Statistiques et Probabilités (16 hours of teaching)"
+title: "Analyse Numérique (28 hours of teaching)"
 collection: teaching
 type: "Undergraduate Course"
-permalink: /teaching/2024_proba_polytech
+permalink: /teaching/2026_numerique_polytech
 venue: "Polytech"
-date: 2024-09-01
+date: 2026-09-01
 location: "Clermont-Ferrand, France"
 ---
 
-An introduction to probability, including the Poisson process and testing theory.
+An introduction to numerical analysis, including Euler's method.
