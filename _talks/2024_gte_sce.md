@@ -1,12 +1,12 @@
 ---
-title: "Easily Computed Marginal Likelihoods from Posterior Simulation Using the THAMES Estimator"
+title: "A Structured Estimator for large Covariance Matrices in the Presence of Pairwise and Spatial Covariates"
 collection: talks
 type: "Talk"
 venue: "Groupe de Travail des Éphémères, Université Paris Cité, MAP5"
-date: 2023-06-02
+date: 2024-11-15
 location: "Paris, France"
 ---
 
-[More information here](https://map5.mi.parisdescartes.fr/events/martin-metodiev/)
+[More information here](https://map5.mi.parisdescartes.fr/events/martin-metodiev-universite-clermont-auvergne/)
 
-In this talk, I am going to illustrate and explain the ideas behind our estimator. I am also going to give a comprehensive overview of our key results, both theoretical and numerical. With regards to the former, I am going to look at some key techniques used in the proof. With regards to the latter, I am going to discuss how to implement the THAMES in practice. I am going to explain each simulation setting and our results.
+We consider the problem of estimating a high-dimensional covariance matrix from a small number of observations when covariates on pairs of variables are available and the variables can have spatial structure.
