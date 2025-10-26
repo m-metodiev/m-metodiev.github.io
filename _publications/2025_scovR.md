@@ -1,5 +1,5 @@
 ---
-title: "scov (R package): Structured Covariances Estimators for Pairwise and Spatial
+title: "scov (R package): Structured Covariance Estimators for Pairwise and Spatial
 Covariates"
 collection: publications
 category: softwares
