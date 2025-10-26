@@ -1,13 +1,20 @@
 ---
-title: "A Structured Estimator for large Covariance Matrices in the Presence of Pairwise and Spatial Covariates"
+title: "scov (R package): Structured Covariances Estimators for Pairwise and Spatial
+Covariates"
 collection: publications
-category: preprints
-excerpt: 'We consider the problem of estimating a high-dimensional covariance matrix from a small number of observations when covariates on pairs of variables are available and the variables can have spatial structure.'
-date: 2024-10-01
-venue: 'arXiv'
-bibtexurl: 'http://m-metodiev.github.io/files/2024_sce_arxiv.bib'
-paperurl: 'http://m-metodiev.github.io/files/2024_sce_arxiv.pdf'
-citation: 'Metodiev, M., Perrot-Dockès, M., Ouadah, S., Fosdick, B. K., Robin, S., Latouche, P., & Raftery, A. E. (2024). A Structured Estimator for large Covariance Matrices in the Presence of Pairwise and Spatial Covariates. arXiv preprint arXiv:2411.04520.'
+category: softwares
+excerpt: 'Implements estimators for structured covariance matrices in the
+presence of pairwise and spatial covariates.'
+date: 2025-10-25
+venue: 'CRAN'
+bibtexurl: 'http://m-metodiev.github.io/files/2025_scovR.bib'
+paperurl: 'http://m-metodiev.github.io/files/2025_scovR.pdf'
+citation: 'Metodiev M, Perrot-Dockès M, Robin S (2025). _scov: Structured
+  Covariances Estimators for Pairwise and Spatial Covariates_.
+  doi:10.32614/CRAN.package.scov
+  <https://doi.org/10.32614/CRAN.package.scov>, R package version
+  0.1.2, <https://CRAN.R-project.org/package=scov>.'
 ---
 
-We consider the problem of estimating a high-dimensional covariance matrix from a small number of observations when covariates on pairs of variables are available and the variables can have spatial structure. This is motivated by the problem arising in demography of estimating the covariance matrix of the total fertility rate (TFR) of 195 different countries when only 11 observations are available. We construct an estimator for high-dimensional covariance matrices by exploiting information about pairwise covariates, such as whether pairs of variables belong to the same cluster, or spatial structure of the variables, and interactions between the covariates. We reformulate the problem in terms of a mixed effects model. This requires the estimation of only a small number of parameters, which are easy to interpret and which can be selected using standard procedures. The estimator is consistent under general conditions, and asymptotically normal. It works if the mean and variance structure of the data is already specified or if some of the data are missing. We assess its performance under our model assumptions, as well as under model misspecification, using simulations. We find that it outperforms several popular alternatives. We apply it to the TFR dataset and draw some conclusions.
+This function computes the WSCE, SCE or IVE estimator for large covariances in the presence of
+pairwise and spatial covariates from Metodiev et al. (2024).
