@@ -1,12 +1,12 @@
 ---
-title: "A Structured Estimator for large Covariance Matrices in the Presence of Pairwise and Spatial Covariates"
+title: "Knowledge, Probability and Belief"
 collection: talks
 type: "Talk"
-venue: "Université Clermont Auvergne, Journées Scientifiques"
-date: 2025-05-26
+venue: "Université Clermont Auvergne, séminaire des doctorants"
+date: 2026-01-14
 location: "Clermont-Ferrand, France"
 ---
 
-[More information here](https://www.uca.fr/journees-scientifiques-de-ledsf)
+[More information here]( https://www.uca.fr/journees-scientifiques-de-ledsf](https://lmbp.uca.fr/seminaires/sem_doc.php )
 
-We consider the problem of estimating a high-dimensional covariance matrix from a small number of observations when covariates on pairs of variables are available and the variables can have spatial structure.
+The talk surveys standard interpretations of knowledge, probability, and belief, with an emphasis on their formal and mathematical foundations. In particular, it examines Dutch Book arguments and ranking theory as foundational approaches to modeling rational belief.
