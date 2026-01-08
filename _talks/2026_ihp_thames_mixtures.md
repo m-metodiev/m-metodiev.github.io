@@ -1,12 +1,13 @@
 ---
-title: "A Structured Estimator for large Covariance Matrices in the Presence of Pairwise and Spatial Covariates"
+title: "Easily Computed Marginal Likelihoods for Multivariate Mixture Models Using the THAMES Estimator"
 collection: talks
 type: "Talk"
-venue: "Université Clermont Auvergne, Journées Scientifiques"
-date: 2025-05-26
-location: "Clermont-Ferrand, France"
+venue: "Institut Henri Poincaré, All About that Bayes Seminar Series"
+date: 2025-02-13
+location: "Paris, France"
 ---
 
-[More information here](https://www.uca.fr/journees-scientifiques-de-ledsf)
+[More information here](https://sites.google.com/view/all-about-that-bayes/home)
 
-We consider the problem of estimating a high-dimensional covariance matrix from a small number of observations when covariates on pairs of variables are available and the variables can have spatial structure.
+
+We present a new version of the truncated harmonic mean estimator (THAMES) for univariate or multivariate mixture models.
