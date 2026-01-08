@@ -3,7 +3,7 @@ title: "Easily Computed Marginal Likelihoods for Multivariate Mixture Models Usi
 collection: talks
 type: "Talk"
 venue: "Institut Henri Poincaré, All About that Bayes Seminar Series"
-date: 2025-02-13
+date: 2026-02-13
 location: "Paris, France"
 ---
 
