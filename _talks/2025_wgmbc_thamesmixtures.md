@@ -1,8 +1,8 @@
 ---
-title: "A Structured Estimator for large Covariance Matrices in the Presence of Pairwise and Spatial Covariates"
+title: "Easily Computed Marginal Likelihoods for Multivariate Mixture Models Using the THAMES Estimator"
 collection: posters
 type: "Poster"
-venue: "Université Clermont Auvergne, Journées Scientifiques"
+venue: "Université Côte d’Azur and Inria, Working Group on Model-Based Clustering"
 date: 2025-07-22
 location: "Sophia Antipolis, France"
 ---
