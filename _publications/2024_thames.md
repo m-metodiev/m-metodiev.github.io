@@ -3,7 +3,7 @@ title: "Easily Computed Marginal Likelihoods from Posterior Simulation Using the
 collection: publications
 category: manuscripts
 excerpt: 'We propose an easily computed estimator of the marginal likelihood from posterior simulation output, via reciprocal importance sampling, combining earlier proposals of DiCiccio et al (1997) and Robert and Wraith (2009).'
-date: 2024-01-01
+date: 2025-01-01
 venue: 'Bayesian Analysis'
 paperurl: 'http://m-metodiev.github.io/files/2024_thames.pdf'
 bibtexurl: 'http://m-metodiev.github.io/files/2024_thames.bib'
