@@ -1,6 +1,6 @@
 ---
 title: "A Structured Estimator for large Covariance Matrices in the Presence of Pairwise and Spatial Covariates"
-collection: talks
+collection: posters
 type: "Poster"
 venue: "Université Clermont Auvergne, Journées Scientifiques"
 date: 2025-07-22
