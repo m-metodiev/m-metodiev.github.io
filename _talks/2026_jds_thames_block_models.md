@@ -2,7 +2,7 @@
 title: "Simulation-consistent Estimation of the Marginal Likelihood for Block Models"
 collection: talks
 type: "Talk"
-venue: "Université Clermont Auvergne, journées de statistique de la SFdS"
+venue: "Journées de Statistique de la SFdS"
 date: 2026-06-01
 location: "Clermont-Ferrand, France"
 ---
