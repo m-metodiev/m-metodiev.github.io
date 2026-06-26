@@ -13,8 +13,8 @@ Analysis, 20(3) 1003-1030 September 2025.'
 ---
 
 
-We propose an easily computed estimator of the marginal likelihood from posterior simulation output, via reciprocal importance sampling, combining earlier proposals of DiCiccio et al (1997) and Robert and Wraith (2009) [More information here](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Easily-Computed-Marginal-Likelihoods-from-Posterior-Simulation-Using-the-THAMES/10.1214/24-BA1422.full). 
+We proposed an easily computed estimator of the marginal likelihood from posterior simulation output, via reciprocal importance sampling, combining earlier proposals of DiCiccio et al (1997) and Robert and Wraith (2009). 
 
 This estimator involves only the unnormalized posterior densities from the sampled parameter values, and does not involve additional simulations beyond the main posterior simulation, or additional complicated calculations, provided that the parameter space is unconstrained. Even if this is not the case, the estimator is easily adjusted by a simple Monte Carlo approximation. It is unbiased for the reciprocal of the marginal likelihood, consistent, has finite variance, and is asymptotically normal. It involves one user-specified control parameter, and we derive an optimal way of specifying this. We illustrate it with several numerical examples.
 
-For more information, please visit https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Easily-Computed-Marginal-Likelihoods-from-Posterior-Simulation-Using-the-THAMES/10.1214/24-BA1422.full
+[More information here](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Easily-Computed-Marginal-Likelihoods-from-Posterior-Simulation-Using-the-THAMES/10.1214/24-BA1422.full)
