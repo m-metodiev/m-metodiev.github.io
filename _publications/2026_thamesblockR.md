@@ -1,5 +1,5 @@
 ---
-title: "thamesmix (R package): Truncated Harmonic Mean Estimator of the Marginal Likelihood for Block Models"
+title: "thamesblock (R package): Truncated Harmonic Mean Estimator of the Marginal Likelihood for Block Models"
 collection: publications
 category: softwares
 excerpt: 'Implements the truncated harmonic mean estimator (THAMES) and other estimators of the reciprocal marginal likelihood for block models.'
