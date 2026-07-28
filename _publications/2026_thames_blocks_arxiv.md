@@ -1,13 +1,12 @@
 ---
-title: "Easily Computed Marginal Likelihoods for Multivariate Mixture Models Using the THAMES Estimator"
+title: "Simulation-consistent Estimation of the Marginal Likelihood for Block Models"
 collection: publications
 category: preprints
-excerpt: 'We present a new version of the truncated harmonic mean estimator (THAMES) for univariate or multivariate mixture models.'
-date: 2025-04-30
+excerpt: 'We propose a methodology for computing marginal likelihoods for block models.'
+date: 2026-07-27
 venue: 'arXiv'
 bibtexurl: 'http://m-metodiev.github.io/files/2025_thames_mixtures_arxiv.bib'
 paperurl: 'http://m-metodiev.github.io/files/2025_thames_mixtures_arxiv.pdf'
-citation: 'Martin Metodiev, Nicholas J. Irons, Marie Perrot-Dockès, Pierre Latouche, Adrian E. Raftery.
-"Easily Computed Marginal Likelihoods for Multivariate Mixture Models Using the THAMES Estimator." arXiv preprint arXiv:2504.21812.'
+citation: 'Metodiev, M., Perrot-Dockès, M., Fouetillou, G., Latouche, P., & Raftery, A. E. (2026). Simulation-consistent estimation of the marginal likelihood for block models. arXiv preprint arXiv:2607.23998.'
 ---
-We present a new version of the truncated harmonic mean estimator (THAMES) for univariate or multivariate mixture models. The estimator computes the marginal likelihood from Markov chain Monte Carlo (MCMC) samples, is consistent, asymptotically normal and of finite variance. In addition, it is invariant to label switching, does not require posterior samples from hidden allocation vectors, and is easily approximated, even for an arbitrarily high number of components. Its computational efficiency is based on an asymptotically optimal ordering of the parameter space, which can in turn be used to provide useful visualisations. We test it in simulation settings where the true marginal likelihood is available analytically. It performs well against state-of-the-art competitors, even in multivariate settings with a high number of components. We demonstrate its utility for inference and model selection on univariate and multivariate data sets.
+We propose a methodology for computing marginal likelihoods for block models. The proposed estimator computes the marginal likelihood from Markov chain Monte Carlo (MCMC) samples and is simulation-consistent, even when the size of the dataset is fixed. Moreover, it is asymptotically normal, of finite variance, invariant to label switching and can be computed efficiently, even for models with an arbitrarily large number of components. We evaluate the method through simulation studies in settings where the true marginal likelihood is available analytically. Finally, we apply the approach to a social network dataset based on the 2023 United Nations Climate Change Conference (COP28) and discuss the resulting insights.
