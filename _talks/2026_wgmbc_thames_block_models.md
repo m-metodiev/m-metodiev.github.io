@@ -4,7 +4,7 @@ collection: posters
 type: "Talk"
 venue: "Department of Mathematical and Statistical Sciences, University of Alberta"
 date: 2026-07-24
-location: "Alberta, Canada"
+location: "Edmonton, Canada"
 ---
 
 [More information here](https://luca-scr.github.io/wgmbc2026.html)
