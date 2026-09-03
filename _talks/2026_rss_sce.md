@@ -3,7 +3,7 @@ title: "A Structured Estimator for large Covariance Matrices in the Presence of 
 collection: talks
 type: "Talk"
 venue: "Royal Statistics Society, RSS International Conference 2026"
-date: 2026-02-19
+date: 2026-09-08
 location: "Bournemouth, United Kingdom"
 ---
 
