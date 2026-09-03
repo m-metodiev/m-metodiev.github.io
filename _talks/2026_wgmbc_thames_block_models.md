@@ -2,7 +2,7 @@
 title: "Simulation-consistent Estimation of the Marginal Likelihood for Block Models"
 collection: posters
 type: "Talk"
-venue: "Department of Mathematical and Statistical Sciences, University of Alberta"
+venue: "Department of Mathematical and Statistical Sciences, Working Group on Model-Based Clustering"
 date: 2026-07-24
 location: "Edmonton, Canada"
 ---
