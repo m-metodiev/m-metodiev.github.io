@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Martin Metodiev is a PhD student in the PAS group at the Laboratoire de Mathématiques Blaise Pascal (LMBP) at Université Clermont Auvergne. His research focuses on Bayesian statistics, particularly its computational and philosophical aspects. His work has addressed topics such as the evaluation of the marginal likelihood, the estimation of large covariance matrices, and the uniqueness of the Bayesian updating rule.
+Martin Metodiev is a postdoc (Onderzoeker 3) in programme group the Psychological Methods of the Faculty of Social and Behavioural Sciences at the University of Amsterdam. His research focuses on Bayesian statistics, particularly its computational and philosophical aspects. His work has addressed topics such as the evaluation of the marginal likelihood, the estimation of large covariance matrices, and the uniqueness of the Bayesian updating rule.
