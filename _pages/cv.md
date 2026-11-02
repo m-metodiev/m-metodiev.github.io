@@ -11,13 +11,15 @@ redirect_from:
 
 Education
 ======
-* PhD in Mathematics, Université Clermont Auvergne, laboratoire de mathématiques Blaise Pascal, équipe probabilités, analyse et statistique, 2026 (expected)
+* PhD in Mathematics, Université Clermont Auvergne, laboratoire de mathématiques Blaise Pascal, équipe probabilités, analyse et statistique, 2026
 * MSc in Mathematics, Friedrich-Alexander-Universität Erlangen-Nürnberg, 2023
 * Erasmus program, Syddansk Universitet, 2022
 * BSc in Mathematics, Friedrich-Alexander-Universität Erlangen-Nürnberg, 2021
 
 Work experience
 ======
+* Since November 2026: Postdoctoral researcher
+  * University of Amsterdam, Faculty of Social and Behavioural Sciences, programme group Psychological Methods
 * Since October 2023: Doctoral student
   * Université Clermont Auvergne, laboratoire de mathématiques Blaise Pascal, équipe probabilités, analyse et statistique
   * Thesis subject: Work on Bayesian approaches to model choice via draws from MCMC with applications in the
